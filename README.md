@@ -1,2 +1,2 @@
 # decort-tech-blog
-Personal Ghost-Blog build using image located in the docker repo, running on homelab kubernets cluster
+Custom Ghost-Blog theme build using image located in the docker repo, running on homelab kubernetes cluster
